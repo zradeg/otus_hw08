@@ -1,0 +1,5 @@
+[local]
+name=HW08-Otus-Base
+baseurl=http://80.76.224.70
+gpgcheck=0
+enabled=1
